@@ -2,7 +2,7 @@
 
 * {
     box-sizing: border-box;
-    font-family: "work sans";
+    font-family: "helvetica";
     margin: 0;
     padding: 0;
 }
@@ -31,9 +31,9 @@ html{
 }
 
 .contenedor-header header .logo a{
-    font-family: "righteous";
+    font-family: "impact";
     font-size: 36px;
-    color: #1cb1b6;
+    color: #fff;
     text-decoration: none;
 }
 
